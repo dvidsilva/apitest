@@ -1,3 +1,10 @@
+Laravel Restful API Example
+============
+
+Create a Laravel app with migrations, model, and a restful resource controller.
+
+Taken from this very cool [tutorial](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
